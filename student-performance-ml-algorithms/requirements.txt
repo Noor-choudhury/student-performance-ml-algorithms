@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+xgboost
+catboost
+torch
+minisom
+scikit-fuzzy
+hdbscan
+transformers
+hmmlearn
